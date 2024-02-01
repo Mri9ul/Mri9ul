@@ -30,6 +30,6 @@ var person = {
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![](https://komarev.com/ghpvc/?username=notbrood&color=red)
+![](https://komarev.com/ghpvc/?username=Mri9ul&color=red)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
